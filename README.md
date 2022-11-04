@@ -1,2 +1,2 @@
 # SAProjekt
-Sissejuhatus andmeteadusesse projekt teemal "Natural Language Processing with Disaster Tweets".
+Introduction to Data Science project about "Natural Language Processing with Disaster Tweets".
